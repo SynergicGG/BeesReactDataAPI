@@ -1,2 +1,0 @@
-# BeesReactDataAPI
-Created with CodeSandbox
